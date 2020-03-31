@@ -13,7 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-# fiaas-deploy-daemon
+# fiaas-deploy-daemon!
 
 ![FIAAS logo](https://raw.githubusercontent.com/fiaas/design-assets/master/logo/Logo_Fiaas_colour.png)
 
